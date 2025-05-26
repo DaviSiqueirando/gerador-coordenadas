@@ -13,8 +13,8 @@ entre na Pasta "**EXECUTAR**", e execute o arquivo **"Executar.java"** dentro de
 
 Pronto, será executado e apresentará uma linha de entrada de dados, que será a quantidade de coordenadas a serem geradas, após isto, será criado
 a pasta "**RESULTADO**" com 2 Subpastas e 1 txt chamadas: 
-"Desordenado" - Onde ficará a coordenada original, sem SORT
-"Ordenados" - Onde ficará as coordernadas em Ordem crescente, do menor ao Maior.
-"tempo_execucao.txt" - Um arquivo de texto apresentando o mesmo que no console, é o comparativo de tempo entre os SORTS, cada um com seu tempo de execução.
+-"Desordenado" - Onde ficará a coordenada original, sem SORT
+-"Ordenados" - Onde ficará as coordernadas em Ordem crescente, do menor ao Maior.
+-"tempo_execucao.txt" - Um arquivo de texto apresentando o mesmo que no console, é o comparativo de tempo entre os SORTS, cada um com seu tempo de execução.
 
 
