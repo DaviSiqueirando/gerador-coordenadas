@@ -1,4 +1,4 @@
-Aqui se encontra o arquivo para o Gerador de Coordenads:
+Aqui se encontra o arquivo para o Gerador de Coordenadas:
 
 Feito em trabalho em grupo para apresentação e realização da atividade de APS da UNIP, CIÊNCIA DA COMPUTAÇÃO 3ºSEMESTRE.
 **TEMA: “DESENVOLVIMENTO DE SISTEMA PARA ANÁLISE DE PERFORMANCE DE ALGORITMOS DE ORDENAÇÃO DE DADOS”.**
